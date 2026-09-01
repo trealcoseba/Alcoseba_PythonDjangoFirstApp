@@ -1,4 +1,4 @@
-# Python virtual environment
+# Virtual environment
 venv/
 .venv/
 
@@ -6,7 +6,7 @@ venv/
 __pycache__/
 *.pyc
 
-# Django
+# Django database
 *.sqlite3
 
 # Environment variables
